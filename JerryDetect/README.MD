@@ -3,6 +3,6 @@ I used FasterRCNN_ResNet50_FPN, but the problem was in wrong recognition of Jerr
 So i added the new object named "Jerry", created custom dataset and trained my model.  
 
 Directories:
-- --pics_train/     &emsp; &emsp;pictures that were used to train model
+- --pics_train/     &emsp; &emsp; &emsp;pictures that were used to train model
 - --vids_detected/           &emsp; ready videos with red rectangle - area where Jerry is located
-- --vids_test/               &emsp; &emsp; raw videos where Jerry must be detected
+- --vids_test/               &emsp; &emsp; &emsp; raw videos where Jerry must be detected
